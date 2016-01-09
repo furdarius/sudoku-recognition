@@ -1,4 +1,4 @@
-Implementation of sudoku recognition on photo and solvig.
+Implementation of sudoku recognition on photo and solving.
 
 ## Dependency
 
